@@ -9,7 +9,7 @@ time_started="$(TZ="${sys_timezone}" date)"
 
 # Main Loop
 for ((i=1;i<=fph;i++)); do
-    bash ./frameposter.sh "${1}" "${2}" || bash img_process.sh "failed" "${time_started}" || exit 1
+    bash -x ./frameposter.sh "${1}" "${2}" || bash img_process.sh "failed" "${time_started}" || exit 1
     sleep "$((mins * 60))"
 done
 
