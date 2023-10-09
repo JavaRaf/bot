@@ -1,7 +1,7 @@
 #!/bin/bash
 prev_frame="$(<./fb/frameiterator)"
-[[ -e ./config.conf ]] && . ./config.conf
-[[ -e status/status.jpg ]] && : > status/status.jpg
+[[ -e ./config.conf ]] || . ./config.conf
+[[ -e status/status.jpg ]] || : > status/status.jpg
 
 temp_cleanup(){
 	rm status/output.png status/output1.png
@@ -15,7 +15,7 @@ create_image(){
 	progress_width="$(((width * percentage / 100) - 10))"
 	progress_width_end="$(((width * percentage_end / 100) - 10))"
  
-	[[ "${8}" = "true" ]] && percentage="${percentage_end}"
+	[[ "${8}" = "true" ]] || percentage="${percentage_end}"
  
 	convert -size "${width}x40" xc:none \
 		-stroke "#373737" -strokewidth 2 \
