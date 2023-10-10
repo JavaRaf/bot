@@ -19,3 +19,18 @@
 [√] Frame: 14, Episode 01 https://facebook.com/122106430586068249
 [√] Frame: 15, Episode 01 https://facebook.com/122106433142068249
 [X] Frame: 16, Episode 01
+[√] Frame: 16, Episode 01 https://facebook.com/122106544790068249
+[√] Frame: 17, Episode 01 https://facebook.com/122106545894068249
+[√] Frame: 18, Episode 01 https://facebook.com/122106547358068249
+[√] Frame: 19, Episode 01 https://facebook.com/122106549122068249
+[√] Frame: 20, Episode 01 https://facebook.com/122106551546068249
+[√] Frame: 21, Episode 01 https://facebook.com/122106554390068249
+[√] Frame: 22, Episode 01 https://facebook.com/122106555734068249
+[√] Frame: 23, Episode 01 https://facebook.com/122106560564068249
+[√] Frame: 24, Episode 01 https://facebook.com/122106562574068249
+[√] Frame: 25, Episode 01 https://facebook.com/122106564818068249
+[√] Frame: 26, Episode 01 https://facebook.com/122106566492068249
+[√] Frame: 27, Episode 01 https://facebook.com/122106567566068249
+[√] Frame: 28, Episode 01 https://facebook.com/122106568514068249
+[√] Frame: 29, Episode 01 https://facebook.com/122106570428068249
+[√] Frame: 30, Episode 01 https://facebook.com/122106571346068249
