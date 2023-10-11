@@ -111,3 +111,18 @@
 [√] Frame: 105, Episode 01 https://facebook.com/122107081130068249
 [X] Frame: 106, Episode 01
 [X] Frame: 106, Episode 01
+[√] Frame: 106, Episode 01 https://facebook.com/122107527878068249
+[√] Frame: 107, Episode 01 https://facebook.com/122107533626068249
+[√] Frame: 108, Episode 01 https://facebook.com/122107537970068249
+[√] Frame: 109, Episode 01 https://facebook.com/122107541474068249
+[√] Frame: 110, Episode 01 https://facebook.com/122107545080068249
+[√] Frame: 111, Episode 01 https://facebook.com/122107549154068249
+[√] Frame: 112, Episode 01 https://facebook.com/122107554194068249
+[√] Frame: 113, Episode 01 https://facebook.com/122107558364068249
+[√] Frame: 114, Episode 01 https://facebook.com/122107561370068249
+[√] Frame: 115, Episode 01 https://facebook.com/122107565810068249
+[√] Frame: 116, Episode 01 https://facebook.com/122107569128068249
+[√] Frame: 117, Episode 01 https://facebook.com/122107572692068249
+[√] Frame: 118, Episode 01 https://facebook.com/122107575302068249
+[√] Frame: 119, Episode 01 https://facebook.com/122107581824068249
+[√] Frame: 120, Episode 01 https://facebook.com/122107601924068249
