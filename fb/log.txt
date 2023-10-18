@@ -1432,3 +1432,18 @@
 [√] Frame: 1424, Episode 01 https://facebook.com/122116402670068249
 [√] Frame: 1425, Episode 01 https://facebook.com/122116404500068249
 [X] Frame: 1426, Episode 01
+[√] Frame: 1426, Episode 01 https://facebook.com/122116483748068249
+[√] Frame: 1427, Episode 01 https://facebook.com/122116487144068249
+[√] Frame: 1428, Episode 01 https://facebook.com/122116488182068249
+[√] Frame: 1429, Episode 01 https://facebook.com/122116488968068249
+[√] Frame: 1430, Episode 01 https://facebook.com/122116491284068249
+[√] Frame: 1431, Episode 01 https://facebook.com/122116494932068249
+[√] Frame: 1432, Episode 01 https://facebook.com/122116499930068249
+[√] Frame: 1433, Episode 01 https://facebook.com/122116500728068249
+[√] Frame: 1434, Episode 01 https://facebook.com/122116501838068249
+[√] Frame: 1435, Episode 01 https://facebook.com/122116503218068249
+[√] Frame: 1436, Episode 01 https://facebook.com/122116504070068249
+[√] Frame: 1437, Episode 01 https://facebook.com/122116505216068249
+[√] Frame: 1438, Episode 01 https://facebook.com/122116506050068249
+[√] Frame: 1439, Episode 01 https://facebook.com/122116506830068249
+[√] Frame: 1440, Episode 01 https://facebook.com/122116507580068249
