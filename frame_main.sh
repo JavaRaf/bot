@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.
 
 # Import config.conf
 [[ -e ./config.conf ]] && . ./config.conf
