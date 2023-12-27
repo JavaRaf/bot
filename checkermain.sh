@@ -6,7 +6,7 @@ graph_url_main="https://graph.facebook.com"
 token="${1}"
 gif_token="${2}"
 
-[[ -e ./config.conf ]] && . ./config.conf
+[[ -e ./config.conf ]] && . ./config.conf.
 
 format_noerr(){ printf '$\\fbox{\\color{#126329}\\textsf{\\normalsize  \\&#x2611; \\kern{0.2cm}\\small  %s  }}$' "${*}" ;}
 format_err(){ printf '$\\fbox{\\color{#82061E}\\textsf{\\normalsize  \\&#x26A0; \\kern{0.2cm}\\small  %s  }}$' "${*}" ;} 
