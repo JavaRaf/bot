@@ -643,3 +643,6 @@
 [√] Frame: 2937, Episode 13 https://facebook.com/122174804348068249
 [√] Frame: 2938, Episode 13 https://facebook.com/122174804834068249
 [√] Frame: 2939, Episode 13 https://facebook.com/122174805272068249
+[√] Frame: 2940, Episode 13 https://facebook.com/122174808488068249
+[√] Frame: 2941, Episode 13 https://facebook.com/122174808818068249
+[√] Frame: 2942, Episode 13 https://facebook.com/122174809244068249
