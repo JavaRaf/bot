@@ -2938,3 +2938,5 @@
 [√] Frame: 2938, Episode 17 https://facebook.com/122191465232068249
 [√] Frame: 2939, Episode 17 https://facebook.com/122191465850068249
 [√] Frame: 2940, Episode 17 https://facebook.com/122191466402068249
+[√] Frame: 2941, Episode 18 https://facebook.com/122191486394068249
+[√] Frame: 2942, Episode 18 https://facebook.com/122191487084068249
