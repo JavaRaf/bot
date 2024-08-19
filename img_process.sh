@@ -72,3 +72,4 @@ case "${1}" in
 esac
 
 temp_cleanup || true
+
