@@ -28,3 +28,13 @@
 [√] Frame: 28, Episode 22 https://facebook.com/122207420234068249
 [√] Frame: 29, Episode 22 https://facebook.com/122207421008068249
 [√] Frame: 30, Episode 22 https://facebook.com/122207421818068249
+[√] Frame: 31, Episode 22 https://facebook.com/122207432024068249
+[√] Frame: 32, Episode 22 https://facebook.com/122207432492068249
+[√] Frame: 33, Episode 22 https://facebook.com/122207433050068249
+[√] Frame: 34, Episode 22 https://facebook.com/122207433716068249
+[√] Frame: 35, Episode 22 https://facebook.com/122207434310068249
+[√] Frame: 36, Episode 22 https://facebook.com/122207435096068249
+[√] Frame: 37, Episode 22 https://facebook.com/122207435684068249
+[√] Frame: 38, Episode 22 https://facebook.com/122207436236068249
+[√] Frame: 39, Episode 22 https://facebook.com/122207436920068249
+[√] Frame: 40, Episode 22 https://facebook.com/122207437532068249
