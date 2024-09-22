@@ -188,3 +188,13 @@
 [√] Frame: 188, Episode 22 https://facebook.com/122207710934068249
 [√] Frame: 189, Episode 22 https://facebook.com/122207711396068249
 [√] Frame: 190, Episode 22 https://facebook.com/122207711840068249
+[√] Frame: 191, Episode 22 https://facebook.com/122207723708068249
+[√] Frame: 192, Episode 22 https://facebook.com/122207724272068249
+[√] Frame: 193, Episode 22 https://facebook.com/122207724830068249
+[√] Frame: 194, Episode 22 https://facebook.com/122207725502068249
+[√] Frame: 195, Episode 22 https://facebook.com/122207726132068249
+[√] Frame: 196, Episode 22 https://facebook.com/122207726714068249
+[√] Frame: 197, Episode 22 https://facebook.com/122207727206068249
+[√] Frame: 198, Episode 22 https://facebook.com/122207727734068249
+[√] Frame: 199, Episode 22 https://facebook.com/122207728232068249
+[√] Frame: 200, Episode 22 https://facebook.com/122207728664068249
