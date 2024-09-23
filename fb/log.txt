@@ -308,3 +308,13 @@
 [√] Frame: 308, Episode 22 https://facebook.com/122207941148068249
 [√] Frame: 309, Episode 22 https://facebook.com/122207941820068249
 [√] Frame: 310, Episode 22 https://facebook.com/122207942744068249
+[√] Frame: 311, Episode 22 https://facebook.com/122207949944068249
+[√] Frame: 312, Episode 22 https://facebook.com/122207950388068249
+[√] Frame: 313, Episode 22 https://facebook.com/122207950868068249
+[√] Frame: 314, Episode 22 https://facebook.com/122207951516068249
+[√] Frame: 315, Episode 22 https://facebook.com/122207952038068249
+[√] Frame: 316, Episode 22 https://facebook.com/122207952440068249
+[√] Frame: 317, Episode 22 https://facebook.com/122207952938068249
+[√] Frame: 318, Episode 22 https://facebook.com/122207953358068249
+[√] Frame: 319, Episode 22 https://facebook.com/122207953838068249
+[√] Frame: 320, Episode 22 https://facebook.com/122207954348068249
