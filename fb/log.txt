@@ -248,3 +248,13 @@
 [√] Frame: 248, Episode 22 https://facebook.com/122207797406068249
 [√] Frame: 249, Episode 22 https://facebook.com/122207797934068249
 [√] Frame: 250, Episode 22 https://facebook.com/122207799206068249
+[√] Frame: 251, Episode 22 https://facebook.com/122207807624068249
+[√] Frame: 252, Episode 22 https://facebook.com/122207808008068249
+[√] Frame: 253, Episode 22 https://facebook.com/122207808602068249
+[√] Frame: 254, Episode 22 https://facebook.com/122207809148068249
+[√] Frame: 255, Episode 22 https://facebook.com/122207811026068249
+[√] Frame: 256, Episode 22 https://facebook.com/122207813498068249
+[√] Frame: 257, Episode 22 https://facebook.com/122207817818068249
+[√] Frame: 258, Episode 22 https://facebook.com/122207821136068249
+[√] Frame: 259, Episode 22 https://facebook.com/122207823080068249
+[√] Frame: 260, Episode 22 https://facebook.com/122207823620068249
