@@ -288,3 +288,13 @@
 [√] Frame: 288, Episode 22 https://facebook.com/122207883950068249
 [√] Frame: 289, Episode 22 https://facebook.com/122207884442068249
 [√] Frame: 290, Episode 22 https://facebook.com/122207884970068249
+[√] Frame: 291, Episode 22 https://facebook.com/122207899118068249
+[√] Frame: 292, Episode 22 https://facebook.com/122207899658068249
+[√] Frame: 293, Episode 22 https://facebook.com/122207900144068249
+[√] Frame: 294, Episode 22 https://facebook.com/122207902700068249
+[√] Frame: 295, Episode 22 https://facebook.com/122207903132068249
+[√] Frame: 296, Episode 22 https://facebook.com/122207903630068249
+[√] Frame: 297, Episode 22 https://facebook.com/122207904284068249
+[√] Frame: 298, Episode 22 https://facebook.com/122207905214068249
+[√] Frame: 299, Episode 22 https://facebook.com/122207905880068249
+[√] Frame: 300, Episode 22 https://facebook.com/122207906588068249
