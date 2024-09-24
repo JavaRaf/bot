@@ -378,3 +378,13 @@
 [√] Frame: 378, Episode 22 https://facebook.com/122208088880068249
 [√] Frame: 379, Episode 22 https://facebook.com/122208089462068249
 [√] Frame: 380, Episode 22 https://facebook.com/122208090044068249
+[√] Frame: 381, Episode 22 https://facebook.com/122208126554068249
+[√] Frame: 382, Episode 22 https://facebook.com/122208127418068249
+[√] Frame: 383, Episode 22 https://facebook.com/122208128876068249
+[√] Frame: 384, Episode 22 https://facebook.com/122208129422068249
+[√] Frame: 385, Episode 22 https://facebook.com/122208130106068249
+[√] Frame: 386, Episode 22 https://facebook.com/122208131468068249
+[√] Frame: 387, Episode 22 https://facebook.com/122208133016068249
+[√] Frame: 388, Episode 22 https://facebook.com/122208133802068249
+[√] Frame: 389, Episode 22 https://facebook.com/122208134816068249
+[√] Frame: 390, Episode 22 https://facebook.com/122208136886068249
