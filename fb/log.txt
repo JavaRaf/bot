@@ -428,3 +428,13 @@
 [√] Frame: 428, Episode 22 https://facebook.com/122208203504068249
 [√] Frame: 429, Episode 22 https://facebook.com/122208204110068249
 [√] Frame: 430, Episode 22 https://facebook.com/122208206900068249
+[√] Frame: 431, Episode 22 https://facebook.com/122208215120068249
+[√] Frame: 432, Episode 22 https://facebook.com/122208215762068249
+[√] Frame: 433, Episode 22 https://facebook.com/122208216110068249
+[√] Frame: 434, Episode 22 https://facebook.com/122208216530068249
+[√] Frame: 435, Episode 22 https://facebook.com/122208216980068249
+[√] Frame: 436, Episode 22 https://facebook.com/122208217448068249
+[√] Frame: 437, Episode 22 https://facebook.com/122208217910068249
+[√] Frame: 438, Episode 22 https://facebook.com/122208218396068249
+[√] Frame: 439, Episode 22 https://facebook.com/122208218750068249
+[√] Frame: 440, Episode 22 https://facebook.com/122208219218068249
