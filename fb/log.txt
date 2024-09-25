@@ -528,3 +528,13 @@
 [√] Frame: 528, Episode 22 https://facebook.com/122208433424068249
 [√] Frame: 529, Episode 22 https://facebook.com/122208433928068249
 [√] Frame: 530, Episode 22 https://facebook.com/122208434444068249
+[√] Frame: 531, Episode 22 https://facebook.com/122208443276068249
+[√] Frame: 532, Episode 22 https://facebook.com/122208443816068249
+[√] Frame: 533, Episode 22 https://facebook.com/122208444272068249
+[√] Frame: 534, Episode 22 https://facebook.com/122208444818068249
+[√] Frame: 535, Episode 22 https://facebook.com/122208445280068249
+[√] Frame: 536, Episode 22 https://facebook.com/122208445736068249
+[√] Frame: 537, Episode 22 https://facebook.com/122208446204068249
+[√] Frame: 538, Episode 22 https://facebook.com/122208446990068249
+[√] Frame: 539, Episode 22 https://facebook.com/122208447410068249
+[√] Frame: 540, Episode 22 https://facebook.com/122208447956068249
