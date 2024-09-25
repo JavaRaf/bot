@@ -488,3 +488,13 @@
 [√] Frame: 488, Episode 22 https://facebook.com/122208314678068249
 [√] Frame: 489, Episode 22 https://facebook.com/122208315602068249
 [√] Frame: 490, Episode 22 https://facebook.com/122208316376068249
+[√] Frame: 491, Episode 22 https://facebook.com/122208340586068249
+[√] Frame: 492, Episode 22 https://facebook.com/122208341042068249
+[√] Frame: 493, Episode 22 https://facebook.com/122208342116068249
+[√] Frame: 494, Episode 22 https://facebook.com/122208342638068249
+[√] Frame: 495, Episode 22 https://facebook.com/122208343154068249
+[√] Frame: 496, Episode 22 https://facebook.com/122208343682068249
+[√] Frame: 497, Episode 22 https://facebook.com/122208344174068249
+[√] Frame: 498, Episode 22 https://facebook.com/122208344834068249
+[√] Frame: 499, Episode 22 https://facebook.com/122208345560068249
+[√] Frame: 500, Episode 22 https://facebook.com/122208346058068249
