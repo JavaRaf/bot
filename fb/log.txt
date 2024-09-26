@@ -588,3 +588,13 @@
 [√] Frame: 588, Episode 22 https://facebook.com/122208518678068249
 [√] Frame: 589, Episode 22 https://facebook.com/122208519134068249
 [√] Frame: 590, Episode 22 https://facebook.com/122208519608068249
+[√] Frame: 591, Episode 22 https://facebook.com/122208527846068249
+[√] Frame: 592, Episode 22 https://facebook.com/122208528386068249
+[√] Frame: 593, Episode 22 https://facebook.com/122208528944068249
+[√] Frame: 594, Episode 22 https://facebook.com/122208529382068249
+[√] Frame: 595, Episode 22 https://facebook.com/122208529910068249
+[√] Frame: 596, Episode 22 https://facebook.com/122208530366068249
+[√] Frame: 597, Episode 22 https://facebook.com/122208531014068249
+[√] Frame: 598, Episode 22 https://facebook.com/122208531554068249
+[√] Frame: 599, Episode 22 https://facebook.com/122208532124068249
+[√] Frame: 600, Episode 22 https://facebook.com/122208532610068249
