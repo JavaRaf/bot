@@ -818,3 +818,13 @@
 [√] Frame: 818, Episode 22 https://facebook.com/122208983450068249
 [√] Frame: 819, Episode 22 https://facebook.com/122208984248068249
 [√] Frame: 820, Episode 22 https://facebook.com/122208984752068249
+[√] Frame: 821, Episode 22 https://facebook.com/122208992414068249
+[√] Frame: 822, Episode 22 https://facebook.com/122208992876068249
+[√] Frame: 823, Episode 22 https://facebook.com/122208993488068249
+[√] Frame: 824, Episode 22 https://facebook.com/122208994130068249
+[√] Frame: 825, Episode 22 https://facebook.com/122208995036068249
+[√] Frame: 826, Episode 22 https://facebook.com/122208995846068249
+[√] Frame: 827, Episode 22 https://facebook.com/122208996770068249
+[√] Frame: 828, Episode 22 https://facebook.com/122208997616068249
+[√] Frame: 829, Episode 22 https://facebook.com/122208998492068249
+[√] Frame: 830, Episode 22 https://facebook.com/122208999242068249
