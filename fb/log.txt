@@ -938,3 +938,13 @@
 [√] Frame: 938, Episode 22 https://facebook.com/122209218404068249
 [√] Frame: 939, Episode 22 https://facebook.com/122209218914068249
 [√] Frame: 940, Episode 22 https://facebook.com/122209219472068249
+[√] Frame: 941, Episode 22 https://facebook.com/122209229732068249
+[√] Frame: 942, Episode 22 https://facebook.com/122209230260068249
+[√] Frame: 943, Episode 22 https://facebook.com/122209230860068249
+[√] Frame: 944, Episode 22 https://facebook.com/122209231364068249
+[√] Frame: 945, Episode 22 https://facebook.com/122209231916068249
+[√] Frame: 946, Episode 22 https://facebook.com/122209232522068249
+[√] Frame: 947, Episode 22 https://facebook.com/122209233116068249
+[√] Frame: 948, Episode 22 https://facebook.com/122209233608068249
+[√] Frame: 949, Episode 22 https://facebook.com/122209234256068249
+[√] Frame: 950, Episode 22 https://facebook.com/122209234760068249
