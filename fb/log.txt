@@ -1198,3 +1198,13 @@
 [√] Frame: 1198, Episode 22 https://facebook.com/122209773566068249
 [√] Frame: 1199, Episode 22 https://facebook.com/122209774148068249
 [√] Frame: 1200, Episode 22 https://facebook.com/122209774868068249
+[√] Frame: 1201, Episode 22 https://facebook.com/122209787366068249
+[√] Frame: 1202, Episode 22 https://facebook.com/122209787912068249
+[√] Frame: 1203, Episode 22 https://facebook.com/122209788638068249
+[√] Frame: 1204, Episode 22 https://facebook.com/122209789268068249
+[√] Frame: 1205, Episode 22 https://facebook.com/122209791518068249
+[√] Frame: 1206, Episode 22 https://facebook.com/122209792208068249
+[√] Frame: 1207, Episode 22 https://facebook.com/122209793288068249
+[√] Frame: 1208, Episode 22 https://facebook.com/122209793870068249
+[√] Frame: 1209, Episode 22 https://facebook.com/122209794878068249
+[√] Frame: 1210, Episode 22 https://facebook.com/122209795496068249
