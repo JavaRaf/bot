@@ -1618,3 +1618,13 @@
 [√] Frame: 1618, Episode 22 https://facebook.com/122210515706068249
 [√] Frame: 1619, Episode 22 https://facebook.com/122210516114068249
 [√] Frame: 1620, Episode 22 https://facebook.com/122210516498068249
+[√] Frame: 1621, Episode 22 https://facebook.com/122210523830068249
+[√] Frame: 1622, Episode 22 https://facebook.com/122210524328068249
+[√] Frame: 1623, Episode 22 https://facebook.com/122210524784068249
+[√] Frame: 1624, Episode 22 https://facebook.com/122210525156068249
+[√] Frame: 1625, Episode 22 https://facebook.com/122210525630068249
+[√] Frame: 1626, Episode 22 https://facebook.com/122210526158068249
+[√] Frame: 1627, Episode 22 https://facebook.com/122210526674068249
+[√] Frame: 1628, Episode 22 https://facebook.com/122210527046068249
+[√] Frame: 1629, Episode 22 https://facebook.com/122210527556068249
+[√] Frame: 1630, Episode 22 https://facebook.com/122210528078068249
