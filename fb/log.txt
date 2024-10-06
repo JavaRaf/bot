@@ -1768,3 +1768,13 @@
 [√] Frame: 1768, Episode 22 https://facebook.com/122210750612068249
 [√] Frame: 1769, Episode 22 https://facebook.com/122210751098068249
 [√] Frame: 1770, Episode 22 https://facebook.com/122210751614068249
+[√] Frame: 1771, Episode 22 https://facebook.com/122210763104068249
+[√] Frame: 1772, Episode 22 https://facebook.com/122210763620068249
+[√] Frame: 1773, Episode 22 https://facebook.com/122210764184068249
+[√] Frame: 1774, Episode 22 https://facebook.com/122210764742068249
+[√] Frame: 1775, Episode 22 https://facebook.com/122210765546068249
+[√] Frame: 1776, Episode 22 https://facebook.com/122210766224068249
+[√] Frame: 1777, Episode 22 https://facebook.com/122210766758068249
+[√] Frame: 1778, Episode 22 https://facebook.com/122210767346068249
+[√] Frame: 1779, Episode 22 https://facebook.com/122210767886068249
+[√] Frame: 1780, Episode 22 https://facebook.com/122210768528068249
