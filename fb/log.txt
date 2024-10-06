@@ -1838,3 +1838,13 @@
 [√] Frame: 1838, Episode 22 https://facebook.com/122210912264068249
 [√] Frame: 1839, Episode 22 https://facebook.com/122210912744068249
 [√] Frame: 1840, Episode 22 https://facebook.com/122210913122068249
+[√] Frame: 1841, Episode 22 https://facebook.com/122210922446068249
+[√] Frame: 1842, Episode 22 https://facebook.com/122210922926068249
+[√] Frame: 1843, Episode 22 https://facebook.com/122210923394068249
+[√] Frame: 1844, Episode 22 https://facebook.com/122210923898068249
+[√] Frame: 1845, Episode 22 https://facebook.com/122210924324068249
+[√] Frame: 1846, Episode 22 https://facebook.com/122210924870068249
+[√] Frame: 1847, Episode 22 https://facebook.com/122210925332068249
+[√] Frame: 1848, Episode 22 https://facebook.com/122210925638068249
+[√] Frame: 1849, Episode 22 https://facebook.com/122210926028068249
+[√] Frame: 1850, Episode 22 https://facebook.com/122210926424068249
