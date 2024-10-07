@@ -1938,3 +1938,13 @@
 [√] Frame: 1938, Episode 22 https://facebook.com/122211088850068249
 [√] Frame: 1939, Episode 22 https://facebook.com/122211089882068249
 [√] Frame: 1940, Episode 22 https://facebook.com/122211090956068249
+[√] Frame: 1941, Episode 22 https://facebook.com/122211106154068249
+[√] Frame: 1942, Episode 22 https://facebook.com/122211106706068249
+[√] Frame: 1943, Episode 22 https://facebook.com/122211107246068249
+[√] Frame: 1944, Episode 22 https://facebook.com/122211107810068249
+[√] Frame: 1945, Episode 22 https://facebook.com/122211108404068249
+[√] Frame: 1946, Episode 22 https://facebook.com/122211109196068249
+[√] Frame: 1947, Episode 22 https://facebook.com/122211109826068249
+[√] Frame: 1948, Episode 22 https://facebook.com/122211110384068249
+[√] Frame: 1949, Episode 22 https://facebook.com/122211110864068249
+[√] Frame: 1950, Episode 22 https://facebook.com/122211111422068249
