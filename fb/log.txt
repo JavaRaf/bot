@@ -1988,3 +1988,13 @@
 [√] Frame: 1988, Episode 22 https://facebook.com/122211165704068249
 [√] Frame: 1989, Episode 22 https://facebook.com/122211166178068249
 [√] Frame: 1990, Episode 22 https://facebook.com/122211166688068249
+[√] Frame: 1991, Episode 22 https://facebook.com/122211173060068249
+[√] Frame: 1992, Episode 22 https://facebook.com/122211173600068249
+[√] Frame: 1993, Episode 22 https://facebook.com/122211174002068249
+[√] Frame: 1994, Episode 22 https://facebook.com/122211174500068249
+[√] Frame: 1995, Episode 22 https://facebook.com/122211175064068249
+[√] Frame: 1996, Episode 22 https://facebook.com/122211175610068249
+[√] Frame: 1997, Episode 22 https://facebook.com/122211176036068249
+[√] Frame: 1998, Episode 22 https://facebook.com/122211176498068249
+[√] Frame: 1999, Episode 22 https://facebook.com/122211176990068249
+[√] Frame: 2000, Episode 22 https://facebook.com/122211177500068249
