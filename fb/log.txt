@@ -2058,3 +2058,13 @@
 [√] Frame: 2058, Episode 22 https://facebook.com/122211270470068249
 [√] Frame: 2059, Episode 22 https://facebook.com/122211271148068249
 [√] Frame: 2060, Episode 22 https://facebook.com/122211271946068249
+[√] Frame: 2061, Episode 22 https://facebook.com/122211298184068249
+[√] Frame: 2062, Episode 22 https://facebook.com/122211298694068249
+[√] Frame: 2063, Episode 22 https://facebook.com/122211299246068249
+[√] Frame: 2064, Episode 22 https://facebook.com/122211300038068249
+[√] Frame: 2065, Episode 22 https://facebook.com/122211300542068249
+[√] Frame: 2066, Episode 22 https://facebook.com/122211301226068249
+[√] Frame: 2067, Episode 22 https://facebook.com/122211301844068249
+[√] Frame: 2068, Episode 22 https://facebook.com/122211302636068249
+[√] Frame: 2069, Episode 22 https://facebook.com/122211303188068249
+[√] Frame: 2070, Episode 22 https://facebook.com/122211303782068249
