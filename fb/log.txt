@@ -68,3 +68,13 @@
 [√] Frame: 78, Episode 23 https://facebook.com/122212900754068249
 [√] Frame: 79, Episode 23 https://facebook.com/122212901234068249
 [√] Frame: 80, Episode 23 https://facebook.com/122212901636068249
+[√] Frame: 81, Episode 23 https://facebook.com/122212910252068249
+[√] Frame: 82, Episode 23 https://facebook.com/122212910606068249
+[√] Frame: 83, Episode 23 https://facebook.com/122212911134068249
+[√] Frame: 84, Episode 23 https://facebook.com/122212911566068249
+[√] Frame: 85, Episode 23 https://facebook.com/122212912064068249
+[√] Frame: 86, Episode 23 https://facebook.com/122212912574068249
+[√] Frame: 87, Episode 23 https://facebook.com/122212913108068249
+[√] Frame: 88, Episode 23 https://facebook.com/122212913696068249
+[√] Frame: 89, Episode 23 https://facebook.com/122212914206068249
+[√] Frame: 90, Episode 23 https://facebook.com/122212914806068249
