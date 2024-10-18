@@ -288,3 +288,13 @@
 [√] Frame: 298, Episode 23 https://facebook.com/122213256206068249
 [√] Frame: 299, Episode 23 https://facebook.com/122213256872068249
 [√] Frame: 300, Episode 23 https://facebook.com/122213257454068249
+[√] Frame: 301, Episode 23 https://facebook.com/122213267666068249
+[√] Frame: 302, Episode 23 https://facebook.com/122213268296068249
+[√] Frame: 303, Episode 23 https://facebook.com/122213269010068249
+[√] Frame: 304, Episode 23 https://facebook.com/122213269538068249
+[√] Frame: 305, Episode 23 https://facebook.com/122213269976068249
+[√] Frame: 306, Episode 23 https://facebook.com/122213270546068249
+[√] Frame: 307, Episode 23 https://facebook.com/122213271098068249
+[√] Frame: 308, Episode 23 https://facebook.com/122213271626068249
+[√] Frame: 309, Episode 23 https://facebook.com/122213272184068249
+[√] Frame: 310, Episode 23 https://facebook.com/122213272742068249
