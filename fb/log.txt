@@ -328,3 +328,13 @@
 [√] Frame: 338, Episode 23 https://facebook.com/122213316974068249
 [√] Frame: 339, Episode 23 https://facebook.com/122213317442068249
 [√] Frame: 340, Episode 23 https://facebook.com/122213317904068249
+[√] Frame: 341, Episode 23 https://facebook.com/122213326634068249
+[√] Frame: 342, Episode 23 https://facebook.com/122213327054068249
+[√] Frame: 343, Episode 23 https://facebook.com/122213327600068249
+[√] Frame: 344, Episode 23 https://facebook.com/122213328056068249
+[√] Frame: 345, Episode 23 https://facebook.com/122213328656068249
+[√] Frame: 346, Episode 23 https://facebook.com/122213329394068249
+[√] Frame: 347, Episode 23 https://facebook.com/122213330168068249
+[√] Frame: 348, Episode 23 https://facebook.com/122213330696068249
+[√] Frame: 349, Episode 23 https://facebook.com/122213331488068249
+[√] Frame: 350, Episode 23 https://facebook.com/122213332100068249
