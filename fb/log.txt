@@ -378,3 +378,13 @@
 [√] Frame: 388, Episode 23 https://facebook.com/122213395394068249
 [√] Frame: 389, Episode 23 https://facebook.com/122213396084068249
 [√] Frame: 390, Episode 23 https://facebook.com/122213397020068249
+[√] Frame: 391, Episode 23 https://facebook.com/122213408708068249
+[√] Frame: 392, Episode 23 https://facebook.com/122213409392068249
+[√] Frame: 393, Episode 23 https://facebook.com/122213409884068249
+[√] Frame: 394, Episode 23 https://facebook.com/122213410520068249
+[√] Frame: 395, Episode 23 https://facebook.com/122213411078068249
+[√] Frame: 396, Episode 23 https://facebook.com/122213412044068249
+[√] Frame: 397, Episode 23 https://facebook.com/122213413214068249
+[√] Frame: 398, Episode 23 https://facebook.com/122213413934068249
+[√] Frame: 399, Episode 23 https://facebook.com/122213414816068249
+[√] Frame: 400, Episode 23 https://facebook.com/122213415320068249
