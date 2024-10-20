@@ -528,3 +528,13 @@
 [√] Frame: 538, Episode 23 https://facebook.com/122213684000068249
 [√] Frame: 539, Episode 23 https://facebook.com/122213684558068249
 [√] Frame: 540, Episode 23 https://facebook.com/122213685338068249
+[√] Frame: 541, Episode 23 https://facebook.com/122213697206068249
+[√] Frame: 542, Episode 23 https://facebook.com/122213697740068249
+[√] Frame: 543, Episode 23 https://facebook.com/122213698334068249
+[√] Frame: 544, Episode 23 https://facebook.com/122213699018068249
+[√] Frame: 545, Episode 23 https://facebook.com/122213700212068249
+[√] Frame: 546, Episode 23 https://facebook.com/122213701106068249
+[√] Frame: 547, Episode 23 https://facebook.com/122213701712068249
+[√] Frame: 548, Episode 23 https://facebook.com/122213702306068249
+[√] Frame: 549, Episode 23 https://facebook.com/122213702912068249
+[√] Frame: 550, Episode 23 https://facebook.com/122213703452068249
