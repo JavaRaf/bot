@@ -478,3 +478,13 @@
 [√] Frame: 488, Episode 23 https://facebook.com/122213581928068249
 [√] Frame: 489, Episode 23 https://facebook.com/122213582426068249
 [√] Frame: 490, Episode 23 https://facebook.com/122213582912068249
+[√] Frame: 491, Episode 23 https://facebook.com/122213602130068249
+[√] Frame: 492, Episode 23 https://facebook.com/122213602664068249
+[√] Frame: 493, Episode 23 https://facebook.com/122213603396068249
+[√] Frame: 494, Episode 23 https://facebook.com/122213604008068249
+[√] Frame: 495, Episode 23 https://facebook.com/122213604686068249
+[√] Frame: 496, Episode 23 https://facebook.com/122213605250068249
+[√] Frame: 497, Episode 23 https://facebook.com/122213605862068249
+[√] Frame: 498, Episode 23 https://facebook.com/122213606612068249
+[√] Frame: 499, Episode 23 https://facebook.com/122213607332068249
+[√] Frame: 500, Episode 23 https://facebook.com/122213607992068249
