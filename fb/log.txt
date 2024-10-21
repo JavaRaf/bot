@@ -628,3 +628,13 @@
 [√] Frame: 638, Episode 23 https://facebook.com/122213839772068249
 [√] Frame: 639, Episode 23 https://facebook.com/122213840300068249
 [√] Frame: 640, Episode 23 https://facebook.com/122213840864068249
+[√] Frame: 641, Episode 23 https://facebook.com/122213854490068249
+[√] Frame: 642, Episode 23 https://facebook.com/122213854928068249
+[√] Frame: 643, Episode 23 https://facebook.com/122213855798068249
+[√] Frame: 644, Episode 23 https://facebook.com/122213856386068249
+[√] Frame: 645, Episode 23 https://facebook.com/122213856956068249
+[√] Frame: 646, Episode 23 https://facebook.com/122213857526068249
+[√] Frame: 647, Episode 23 https://facebook.com/122213858426068249
+[√] Frame: 648, Episode 23 https://facebook.com/122213859248068249
+[√] Frame: 649, Episode 23 https://facebook.com/122213859920068249
+[√] Frame: 650, Episode 23 https://facebook.com/122213860502068249
