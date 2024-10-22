@@ -688,3 +688,13 @@
 [√] Frame: 698, Episode 23 https://facebook.com/122213946182068249
 [√] Frame: 699, Episode 23 https://facebook.com/122213946602068249
 [√] Frame: 700, Episode 23 https://facebook.com/122213947040068249
+[√] Frame: 701, Episode 23 https://facebook.com/122213955410068249
+[√] Frame: 702, Episode 23 https://facebook.com/122213955896068249
+[√] Frame: 703, Episode 23 https://facebook.com/122213956682068249
+[√] Frame: 704, Episode 23 https://facebook.com/122213957204068249
+[√] Frame: 705, Episode 23 https://facebook.com/122213957678068249
+[√] Frame: 706, Episode 23 https://facebook.com/122213958146068249
+[√] Frame: 707, Episode 23 https://facebook.com/122213958596068249
+[√] Frame: 708, Episode 23 https://facebook.com/122213959076068249
+[√] Frame: 709, Episode 23 https://facebook.com/122213959520068249
+[√] Frame: 710, Episode 23 https://facebook.com/122213960102068249
