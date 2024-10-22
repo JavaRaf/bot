@@ -778,3 +778,13 @@
 [√] Frame: 788, Episode 23 https://facebook.com/122214080876068249
 [√] Frame: 789, Episode 23 https://facebook.com/122214086228068249
 [√] Frame: 790, Episode 23 https://facebook.com/122214088058068249
+[√] Frame: 791, Episode 23 https://facebook.com/122214111902068249
+[√] Frame: 792, Episode 23 https://facebook.com/122214112322068249
+[√] Frame: 793, Episode 23 https://facebook.com/122214112880068249
+[√] Frame: 794, Episode 23 https://facebook.com/122214113468068249
+[√] Frame: 795, Episode 23 https://facebook.com/122214114002068249
+[√] Frame: 796, Episode 23 https://facebook.com/122214114578068249
+[√] Frame: 797, Episode 23 https://facebook.com/122214115166068249
+[√] Frame: 798, Episode 23 https://facebook.com/122214115772068249
+[√] Frame: 799, Episode 23 https://facebook.com/122214116318068249
+[√] Frame: 800, Episode 23 https://facebook.com/122214116834068249
