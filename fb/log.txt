@@ -1018,3 +1018,13 @@
 [√] Frame: 1028, Episode 23 https://facebook.com/122214476804068249
 [√] Frame: 1029, Episode 23 https://facebook.com/122214477632068249
 [√] Frame: 1030, Episode 23 https://facebook.com/122214478280068249
+[√] Frame: 1031, Episode 23 https://facebook.com/122214501248068249
+[√] Frame: 1032, Episode 23 https://facebook.com/122214501620068249
+[√] Frame: 1033, Episode 23 https://facebook.com/122214502058068249
+[√] Frame: 1034, Episode 23 https://facebook.com/122214502688068249
+[√] Frame: 1035, Episode 23 https://facebook.com/122214503432068249
+[√] Frame: 1036, Episode 23 https://facebook.com/122214503828068249
+[√] Frame: 1037, Episode 23 https://facebook.com/122214504338068249
+[√] Frame: 1038, Episode 23 https://facebook.com/122214504884068249
+[√] Frame: 1039, Episode 23 https://facebook.com/122214505454068249
+[√] Frame: 1040, Episode 23 https://facebook.com/122214506084068249
