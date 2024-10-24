@@ -968,3 +968,13 @@
 [√] Frame: 978, Episode 23 https://facebook.com/122214391544068249
 [√] Frame: 979, Episode 23 https://facebook.com/122214392096068249
 [√] Frame: 980, Episode 23 https://facebook.com/122214392840068249
+[√] Frame: 981, Episode 23 https://facebook.com/122214402524068249
+[√] Frame: 982, Episode 23 https://facebook.com/122214403142068249
+[√] Frame: 983, Episode 23 https://facebook.com/122214403628068249
+[√] Frame: 984, Episode 23 https://facebook.com/122214404084068249
+[√] Frame: 985, Episode 23 https://facebook.com/122214404684068249
+[√] Frame: 986, Episode 23 https://facebook.com/122214405308068249
+[√] Frame: 987, Episode 23 https://facebook.com/122214405794068249
+[√] Frame: 988, Episode 23 https://facebook.com/122214406286068249
+[√] Frame: 989, Episode 23 https://facebook.com/122214406760068249
+[√] Frame: 990, Episode 23 https://facebook.com/122214407348068249
